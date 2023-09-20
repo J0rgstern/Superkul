@@ -1,0 +1,10 @@
+h1, h2 {
+    color:orange;
+}
+
+body {
+    background-image: url(https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-b88adde6a57e40aa85818820aa87a6cd);
+    background-repeat: no-repeat;
+}
+
+h2 {padding-left: 900px;}
